@@ -4,10 +4,9 @@ This project focuses on evaluating the ease of use of machine learning (ML) appl
 ## Project Structure
 The project structure is organized as follows:
 
-* **src/:** Contains the source code for web scraping and analysis.
-* **data/:** Stores the obtained CSV files containing relevant information.
-* **results/:** Holds the results of the analysis.
-* **README.md:** This file, explaining the project and its components.
+* Contains the source code for web scraping and analysis.
+* Stores the obtained CSV files containing relevant information.
+* Holds the results of the analysis.
 
 ## Implementation Details
 1. **Web Scraping with Selenium:**

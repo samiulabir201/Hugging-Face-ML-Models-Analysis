@@ -1,4 +1,4 @@
-# Hugging Face ML Models Analysis with Selenium, Python, and SQL
+# Hugging Face ML Models Analysis with Selenium,BeautifulSoup, Python, and SQL
 This project focuses on evaluating the ease of use of machine learning (ML) applications, specifically in the domains of "Text Classification" and "Text Generation." The analysis is conducted on models available in the Hugging Face ML store. Leveraging web scraping with Selenium in Python, the project extracts relevant data from the Hugging Face website. Subsequently, SQL and PL-SQL are employed for processing and deriving meaningful insights from the acquired data.
 
 ## Project Structure
